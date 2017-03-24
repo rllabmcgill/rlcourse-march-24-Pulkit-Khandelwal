@@ -1,7 +1,7 @@
 
-An Empirical Evaluation of True Online TD(Lambda) by Harm van Seijen et. al
+1. An Empirical Evaluation of True Online TD(Lambda) by Harm van Seijen et. al
 
-True Online Temporal-Difference Learning by Harm van Seijen et. al; 
+2. True Online Temporal-Difference Learning by Harm van Seijen et. al; 
 
 -----Journal of Machine Learning Research 2016----
 
