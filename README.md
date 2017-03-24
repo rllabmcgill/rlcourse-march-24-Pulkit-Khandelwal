@@ -6,8 +6,8 @@ True Online Temporal-Difference Learning by Harm van Seijen et. al;
 In this IPython Notebook, I will walk through the various Function Approximation methods for estimating an optimal solution for the value functions V(s) i.e. On-policy prediction. Refer to the above two papers and the chapters: 9 and 12 from Sutton and Barto's Book. I have implemented the following algorithms:
 
 1. Gradient Monte Carlo Algorithm for Approximating V
-2. Semi-gradient TD(0) for estimating 
-3. TD(lambda)
+2. Semi-gradient TD(0) for estimating V_pi
+3. Semi-gradient TD(lambda)
 4. True-online TD(lambda)
 5. TD(0) for prediction. This result will act as the V_pi(s) to calculate RMSVE
 
