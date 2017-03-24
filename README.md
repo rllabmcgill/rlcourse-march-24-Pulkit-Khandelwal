@@ -1,6 +1,8 @@
 
 An Empirical Evaluation of True Online TD(Lambda) by Harm van Seijen et. al
+
 True Online Temporal-Difference Learning by Harm van Seijen et. al; 
+
 -----Journal of Machine Learning Research 2016----
 
 In this IPython Notebook, I will walk through the various Function Approximation methods for estimating an optimal solution for the value functions V(s) i.e. On-policy prediction. Refer to the above two papers and the chapters: 9 and 12 from Sutton and Barto's Book. I have implemented the following algorithms:
